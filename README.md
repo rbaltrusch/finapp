@@ -1,3 +1,4 @@
+[![Build](https://github.com/rbaltrusch/finapp/actions/workflows/maven.yml/badge.svg)](https://github.com/rbaltrusch/finapp/actions/workflows/maven.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
 # Transaction management system
