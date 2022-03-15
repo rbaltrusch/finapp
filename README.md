@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+
 # Transaction management system
 
 This is a simple Spring Boot web application for a transaction management system REST API.
